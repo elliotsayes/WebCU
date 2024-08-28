@@ -1,0 +1,10 @@
+{
+  "name": "@permaweb/webcu",
+  "version": "1.0.0",
+  "description": "WebCU monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "example"
+  ]
+}
